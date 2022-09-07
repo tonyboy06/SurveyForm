@@ -146,3 +146,17 @@ input, button, select, textarea {
     color: black;
     line-height: inherit;
 }
+
+
+/* footer */
+
+.footer {
+    text-align: center;
+    color: #fff;
+    padding: 20px;
+    font-family: sans-serif;
+}
+
+.footer p {
+    font-size: 18px;
+}
